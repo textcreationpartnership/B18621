@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Simon Leach, Who is plaintiff in a writ of error, brought before the right honourable the Lords in Parliament</title>
+            <author>Leach, Simon, Sir, d. 1708.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18621</idno><idno type="EEBO-CITATION">99886800</idno>
+  <idno type="VID">189459</idno>
+  <idno type="EEBO-PROQUEST">2264217119</idno>
+  
+            <idno type="STC">Wing C1000A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[35]</idno>
+            <idno type="STC">ESTC R226615</idno>
+            <idno type="PROQUEST">ocm99886800</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886800e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189459)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Simon Leach, Who is plaintiff in a writ of error, brought before the right honourable the Lords in Parliament</title>
+                  <author>Leach, Simon, Sir, d. 1708.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leach, Simon, --  Sir, d. 1708 --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189459:1"/>
+            <head>The CASE OF Sir SIMON LEACH, Who is Plaintiff in a Writ of Error, brought before the Right Hono<g ref="char:EOLhyphen"/>rable the Lords in Parliament</head>
+            <p>
+               <hi>NIcholas Leach,</hi> Great Uncle to Sir <hi>Simon,</hi> being seised in Fee of 500 <hi>l.</hi> a Year in <hi>York-shire</hi> and <hi>Devonshire,</hi> in 1643, devised the same to <hi>Nicholas Leach</hi> his Eldest Son, and the Heirs Males of his Body; And for default of such Issue, the Remainder to <hi>Simon Leach,</hi> another of his Sons, and the Heirs Males of his Body; and for default of such Issue, the Remainder to <hi>Simon Leach</hi> his Nephew, and his Heirs for ever, (who was Fa<g ref="char:EOLhyphen"/>ther to Sir <hi>Simon.</hi>)</p>
+            <p>
+               <hi>Nicholas Leach</hi> the Devisor died, and <hi>Nicholas</hi> his Son surviving, and being Indebted, destroyed that Estate Tail; And in 1667, devised them, first for Payment of his Debts, and the the Remainder to the Heirs Males of his Body; and for default of such Issue, to <hi>Simon Leach</hi> his Brother for Life; and after his Decease, to the First, second, and other Sons of the Body of the said <hi>Simon;</hi> and for default of such Issue, to Sir <hi>Simon</hi> the Plaintiff.</p>
+            <p>
+               <hi>Simon,</hi> after the Death of his Brother <hi>Nicholas,</hi> Married <hi>Ann Croke,</hi> who afterwards left her Husband, and lived publickly many Years with Sir <hi>George Pudsey</hi> in <hi>Oxfordshire.</hi>
+            </p>
+            <p>This being known to all the Relations and the Country, her Father, Mr. <hi>Croke,</hi> being much troubled at it, and the Discourse being, that Mrs. <hi>Leach</hi> was with Child at Sir <hi>George Pudsey</hi>'s, which was some Years after she lived from her Husband. <hi>Simon</hi> her Husband, by the Consent of her Father <hi>Croke</hi> (who could not in Conscience oppose it) by the Advice of Mr. <hi>Serjeant Ellis,</hi> and Mr. <hi>Serjeant Maynard,</hi> made the Surrender in Question of his Estate for Life, to Sir <hi>Simon</hi> the Plaintiff, then an Infant, who was the next Remainder Man in Tail, on purpose to destroy the contingent Remainder to the First, second, and other Sons of hers, and preserve the Estate in the true and rightful Heirs of the Family.</p>
+            <p>That <hi>Simon,</hi> both before, and after this Surrender for several Years, Lett Leases of his Estate, after the Manner of the <hi>West,</hi> upon small Rents and Fines, which are all enjoyed to this day under them.</p>
+            <p>About 3 or 4 Months after the making of this Surrender, <hi>Ann</hi> the Wife of <hi>Simon,</hi> was brought to Bed of <hi>Charles Leach,</hi> the Defendant, who after the Death of <hi>Simon,</hi> brought an Ejectment, under the Title, by the Will of <hi>Nicholas,</hi> as the first Son of <hi>Simon.</hi>
+            </p>
+            <p>☞ In which there was a special Verdict, whereby the said <hi>Simon</hi> was found to be <hi>Compos Mentis,</hi> and the Surrender in question, was found to be due<g ref="char:EOLhyphen"/>ly Seal'd by him to the Use of Sir <hi>Simon,</hi> but in his Absence. And they found that <hi>Charles Leach</hi> the Defendant, was Born during the Elopement; and that <hi>Simon</hi> the Surrenderer continued in Possession five Years after the Surrender; and that then Sir <hi>Simon,</hi> published his Agreement to it, and Acceptance of it (he being then but just of Age) but Judgment was given against Sir <hi>Simon,</hi> because it did not appear, that he agreed to the Surrender, when it was made to him by <hi>Simon.</hi>
+            </p>
+            <p>But because it did not appear he ever disagreed to it, and being to his Advantage, must be presumed to agree to it, unless the contrary appeared; and because he did publish his Agreement to it, as soon as he came of Age; and because Sir <hi>Simon</hi> had paid several Years Value to <hi>Simon,</hi> for the Surrender of his Estate for Life in these Lands in <hi>Devon,</hi> and had paid 1000 <hi>l.</hi> more as he appointed, and had only the Lands in <hi>Devon,</hi> which was not half the E<g ref="char:EOLhyphen"/>state, and Granted, and Released his Title to the <hi>York-shire</hi> Lands, which for default of Issue of <hi>Simon,</hi> would have also come to Sir <hi>Simon,</hi> without the said Surrender by the Devise aforesaid. So that <hi>Simon</hi> became a real Purchaser of the same, and for a full Value; and having Married the late Lord Trea<g ref="char:EOLhyphen"/>surer <hi>Clifford</hi>'s Daughter, settled all the Lands in question on her for her Joynture, and laid out above 2000 <hi>l.</hi> in Building thereon, and granted several Leases thereof; For these Reasons, and upon hearing many Learned Arguments upon the Point of Law, this Honourable House reverst that Judgment, and ordered the Surrender should not be brought in question any more.</p>
+            <p>But the Defendant <hi>Charles</hi> not acquiescing, brought another Ejectment, and there it was indeed found Specially, That <hi>Simon</hi> was <hi>non Compos</hi> at the make<g ref="char:EOLhyphen"/>ing the Sarrender; but the Jary being equally divided, differed so much in it, that they sat up all night, and the next Morning asked the Judge, who took the Verdict, Whether a Man could be an Ideot, that could Write and Read? And he answered, yes; they then found him <hi>non Compos,</hi> but yet allowed, that the Leases which he made to the Tenants at the same time he Sealed the Surrender, were good.</p>
+            <p>And upon that Verdict, the only Question was, Whether the Surrender was wholly void, or only voidable; for if it were only voidable, then it was agreed Sir <hi>Simon</hi> had the Right, it being made before the Birth of <hi>Charles</hi> the Defendant; and so the contingent Remainder to the first Son, was destroy<g ref="char:EOLhyphen"/>ed: The Freehold of <hi>Simon,</hi> which should have supported it till it came in Esse, being merged by his Surrender of it to Sir <hi>Simon</hi> in his Estate Tail; But if it were wholly void, it was then pretended they had the Right.</p>
+            <p>And tho' all the Judges in the Great and Solemn Resolution in <hi>Beverley</hi>'s Case in my Lord <hi>Coke</hi>'s 4th Report 124, did agree, That no Deed Seal'd and Delivered by an Ideot or <hi>non Compos,</hi> can be avoided by either of them during their Lives; And tho' my Lord <hi>Coke</hi> in that Case cites many Authorities and Judgments out of the Books of Law agreeing with it; so that it was thought the Law had been settled in that Point, That this Surrender was not wholly void, but only voidable; and so the contingent Remainder, to the first Son was destroyed, according to the Opinion and Design of those great Lawyers, <hi>Ellis</hi> and <hi>Maynard,</hi> who advised it. Yet, Sir <hi>Simon</hi> had the Misfortune to have the Judges of the <hi>Kings-Bench</hi> of another Opinion, who gave their Judgments, That the Surrender to him was wholly void. Against whose Opinions in Point of Law.</p>
+            <p>That Great Lawyer <hi>Littleton.</hi> in 18 <hi>E</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4.2. when he was a Judge, and all the Court then, and the Learned Judges in <hi>E.</hi> 3. <hi>Hen.</hi> 6. and Qu. <hi>Elizabeths</hi> Time; and <hi>Perkins,</hi> Sect. 139, gives another Reason for it, which makes the Surrender (contrary to the said Opinions) a good Conveyance to Sir <hi>Simon.</hi>
+            </p>
+            <p>For they hold, that every Conveyance or Deed executed by an Infant, or by the <hi>non Compos</hi> himself in Person, is good against himself, and not void.</p>
+            <p>But that every Deed that is executed by or under a Letter of Attorney from them, is void; and that they themselves may Sue or Punish any one that acts under it, as if he had done it without any Warrant or Authority.</p>
+            <p>And the Reason they give, is, That he being an Infant or <hi>non Compos,</hi> it were a Contradiction to say he can have any Will in him, Faculty or Power to give an Authority.</p>
+            <p>But the Inheritance of his Lands, and the Property of his Goods is in him; and therefore no Contradiction, that he himself by any Deed or Assure<g ref="char:EOLhyphen"/>ance, may pass them during his Life, as any other Man may (or else if he were never so rich) he might starve, if all he could do, were wholly void. In<g ref="char:EOLhyphen"/>deed his Heirs may avoid it, and so he cannot injure his Posterity; but <hi>Charles</hi> does not, nor can claim these Lands as Heir to him.</p>
+            <p>But the Books agree too, That if the <hi>non Compos</hi> recovers his Senses, and then Confirms the Deed which he made, when he was <hi>non Compos,</hi> it shall bind his Heirs for ever.</p>
+            <p>And it is a Rule in Law, that a Deed cannot be void, which may be Confirmed, or made good afterwards; and there are multitudes of Opinions and Judgments, that agree in this Difference, That Gifts, Grants, Releases, Bonds Sealed, and Delivered by them themselves are good, and makes the Surren<g ref="char:EOLhyphen"/>der in this Case to Sir <hi>Simon</hi> (being Sealed and Delivered by himself in Person) good.</p>
+            <p>And it is plain, that this new Matter pretended to, by the said <hi>Charles Leach,</hi> in endeavouring to destroy the Surrender, is a Notion much of the same Nature with the last, only prosecuted under a new Name; for that upon the former Tryal, when the Validity of the Surrender was in Issue, the Jury found the said <hi>Simon, Compos:</hi> But as to the Point of Law of Sir <hi>Simon</hi>'s Acceptance of the Surrender, the Jury found that Specially.</p>
+            <p>And in regard that this Surrender was made upon great Deliberation, and Advice of the greatest Councel of that Age, by <hi>Simon,</hi> with the Assent of Mr. <hi>Croke,</hi> the Grandfather of <hi>Charles</hi> the Defendant, who was Advising and Consenting to the Surrender, in respect of the Elopement and ill Behaviour of his Daughter; and also in regard it was made upon a full and valuable Consideration, paid for it too by Sir <hi>Simon;</hi> and that it is conceived there are many Authorities and Resolutions in the Law for him.</p>
+            <p>Therefore, he humbly hopes Your Lordships will think it most just to Reverse this Judgment, and once more to Order, that this Surrender shall not be drawn in question again, which 'tis hoped may quiet this Estate, according to the plain Intention of the Ancestors of the Plaintiff and Defendant.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189459:2"/>
+            <p>THE CASE OF Sir SIMON LEACH.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
